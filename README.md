@@ -31,9 +31,8 @@
 
 ### Tech Stack:
 
-```yaml
-Backend: Node.js, Express.js, Python
+Backend: Node.js, Express.js, Python, Nest.js
 DevOps: Docker, Kubernetes, Jenkins, Terraform (Iaac)
 Databases: MongoDB, PostgreSQL, MySQL
-Cloud: AWS, Azure, GCP
-Tools: Insomnia, Selenium
+Cloud: AWS, GCP
+Tools: Insomnia, Selenium ,Jira
