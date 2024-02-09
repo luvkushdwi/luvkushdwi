@@ -1,4 +1,4 @@
-# Hey everyone! I'm [Pawan Dwivedi](https://github.com/luvkushdwi) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" height="25px">
+# Hey there! I'm [Pawan Dwivedi](https://github.com/luvkushdwi) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" height="25px">
 
 <a href="https://twitter.com/pawan_dwivedi12">
   <img align="left" alt="Pawan's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
@@ -21,18 +21,19 @@
 ```markdown
 ### About Me:
 
-👨‍💻 I'm passionate about creating robust backend solutions and optimizing deployment processes as a DevOps enthusiast.
+👨‍💻 Crafting digital experiences through code, I thrive in the world of backend development and DevOps, sculpting reliable solutions and orchestrating seamless deployments.
 
-🌟 Constantly learning and exploring new technologies to stay up-to-date with the rapidly evolving tech landscape.
+🌟 An eternal student of technology, I traverse the realms of innovation, constantly immersing myself in the latest tools and paradigms to sculpt the future of tech.
 
-💼 Currently, I'm honing my skills in containerization with Docker and orchestration with Kubernetes.
+💼 Currently, my journey embarks on mastering the art of containerization with Docker, orchestrating symphonies with Kubernetes, and automating landscapes with Jenkins.
 
-📚 I enjoy sharing my knowledge and insights through blog posts and technical discussions.
+📚 My passion extends beyond coding; I'm a fervent advocate of knowledge sharing, fostering discussions, and disseminating insights through blogs and technical rendezvous.
 
 ### Tech Stack:
 
 ```yaml
-backend: Node.js, Express.js, Python
-devops: Docker, Kubernetes, Jenkins
-databases: MongoDB, PostgreSQL, MySQL
-cloud: AWS, Azure, GCP
+Backend: Node.js, Express.js, Python
+DevOps: Docker, Kubernetes, Jenkins, Terraform (Iaac)
+Databases: MongoDB, PostgreSQL, MySQL
+Cloud: AWS, Azure, GCP
+Tools: Insomnia, Selenium
