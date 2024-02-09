@@ -30,11 +30,11 @@
 
 ### Tech Stack:
 
-Backend: Node.js, Express.js, Python, Nest.js
-DevOps: Docker, Kubernetes, Jenkins, Terraform (Iaac)
-Databases: MongoDB, PostgreSQL, MySQL
-Cloud: AWS, GCP
-Tools: Insomnia, Selenium ,Jira
+Backend: Node.js, Express.js, Python, Nest.js<br>
+DevOps: Docker, Kubernetes, Jenkins, Terraform (Iaac)<br>
+Databases: MongoDB, PostgreSQL, MySQL<br>
+Cloud: AWS, GCP<br>
+Tools: Insomnia, Selenium ,Jira<br>
 
 #### <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="100%">
 <br><br>
