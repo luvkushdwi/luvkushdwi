@@ -18,7 +18,6 @@
 
 ## <p align="center"><samp> Backend Developer | DevOps Engineer </samp></p>
 
-```markdown
 ### About Me:
 
 👨‍💻 Crafting digital experiences through code, I thrive in the world of backend development and DevOps, sculpting reliable solutions and orchestrating seamless deployments.
